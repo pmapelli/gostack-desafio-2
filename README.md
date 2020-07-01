@@ -1,4 +1,4 @@
-# gostack-desafio-1
+# gostack-desafio-2
 
 # Instruções do desafio
 
